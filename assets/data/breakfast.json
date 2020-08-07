@@ -1,0 +1,9 @@
+{
+  "breakfast": 
+	[
+		{"food": "Channa Dal","price": "4.5","calories":"320"},
+		{"food": "Nutella","price": "2.35","calories":"190"},
+		{"food": "Fish Curry","price": "22.4","calories":"130"},
+		{"food": "Mango Juice","price": "5.2","calories":"50"}
+  ]
+}

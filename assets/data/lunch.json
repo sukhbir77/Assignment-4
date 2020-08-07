@@ -1,0 +1,9 @@
+{
+  "lunch": 
+	[
+		{"food": "Rice","price": "2.5","calories":"40"},
+		{"food": "JuniorChicken","price": "3.2","calories":"220"},
+		{"food": "RasMalai","price": "4.0","calories":"140"},
+		{"food": "Eggs","price": "2.1","calories":"270"}
+  ]
+}

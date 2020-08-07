@@ -1,0 +1,9 @@
+{
+  "dinner": 
+	[
+		{"food": "Butter Chicken","price": "4.5","calories":"120"},
+		{"food": "Naan","price": "23.5","calories":"450"},
+		{"food": "Gulab Jamun","price": "2.0","calories":"350"},
+		{"food": "Chicken Pakora","price": "3.29","calories":"110"}
+  ]
+}
